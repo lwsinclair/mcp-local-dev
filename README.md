@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/txbm-mcp-local-dev-badge.png)](https://mseep.ai/app/txbm-mcp-local-dev)
+
 # 🚀 MCP Local Dev
 
 Let AI handle your local development environments while you focus on building amazing things!
